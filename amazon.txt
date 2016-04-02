@@ -1,0 +1,24 @@
+amazon
+146	LRU Cache	15.7%	Hard
+23	Merge k Sorted Lists	23.0%	Hard
+98	Validate Binary Search Tree	20.8%	Medium
+89	Gray Code	35.7%	Medium
+167	Two Sum II - Input array is sorted 	47.4%	Medium
+78	Subsets	30.9%	Medium
+5	Longest Palindromic Substring	22.7%	Medium
+48	Rotate Image	34.2%	Medium
+186	Reverse Words in a String II 	29.3%	Medium
+49	Group Anagrams	26.9%	Medium
+200	Number of Islands	27.1%	Medium
+199	Binary Tree Right Side View	33.6%	Medium
+160#	Intersection of Two Linked Lists	30.1%	Easy
+21	Merge Two Sorted Lists	35.0%	Easy
+206	Reverse Linked List	38.7%	Easy
+235	Lowest Common Ancestor of a Binary Search Tree	38.0%	Easy
+8	String to Integer (atoi)	13.4%	Easy
+20	Valid Parentheses	28.9%	Easy
+1	Two Sum	21.9%	Easy
+204	Count Primes	23.7%	Easy
+242	Valid Anagram	41.2%	Easy
+102	Binary Tree Level Order Traversal	32.2%	Easy
+155	Min Stack	21.7%	Easy
